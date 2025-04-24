@@ -1,3 +1,2 @@
-    *
-    !main.cpp
-    !.gitignore
+/.idea
+/cmake-build-debug
